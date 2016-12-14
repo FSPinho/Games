@@ -21,8 +21,8 @@ Zelda.Dat...OK
 Fonts.Dat...OK
 SFX.Dat...OK
 Initializing sound driver... OK
-Used switch: -windowed
-set gfx mode succsessful at -2 8bpp 640 x 480 
+Used switch: -fullscreen
+set gfx mode succsessful at -1 8bpp 640 x 480 
 Triplebuffer not available
 Loading saved games... OK
 Loading Quest: new quest...
@@ -42,8 +42,6 @@ Loading Quest: new quest...
 
 Decrypting...okay.
 Opening...okay.
-Triplebuffer disabled 
-gfx mode set at -0 8bpp 640 x 480 
 Loading Quest: new quest...
 
 Decrypting...okay.
@@ -85,9 +83,6 @@ Reading Favorite Combos...okay.
 Done.
 Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
 Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
 Loading Quest: new quest...
 
 Decrypting...okay.
@@ -128,21 +123,6 @@ Reading Item Drop Sets...okay.
 Reading Favorite Combos...okay.
 Done.
 Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Loading Quest: new quest...
-
-Decrypting...okay.
-Opening...okay.
-Loading Quest: new quest...
-
-Decrypting...okay.
-Opening...okay.
 Removing timers. 
 Freeing Data: 
 Bitmaps... 
