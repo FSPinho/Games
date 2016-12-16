@@ -42,6 +42,48 @@ Loading Quest: new quest...
 
 Decrypting...okay.
 Opening...okay.
+Triplebuffer disabled 
+gfx mode set at --1 8bpp 640 x 480 
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: 1st.qst...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 29
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
 Loading Quest: new quest...
 
 Decrypting...okay.
@@ -83,46 +125,15 @@ Reading Favorite Combos...okay.
 Done.
 Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
 Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
-Loading Quest: new quest...
-
-Decrypting...okay.
-Opening...okay.
-Loading Quest: new quest...
-
-Decrypting...okay.
-Opening...okay.
-Loading Quest: 1st.qst...
-
-Decrypting...okay.
-Opening...okay.
-Reading Header...okay.
-Made in ZQuest 250 Beta 29
-Reading Rules...okay.
-Reading Strings...okay.
-Reading Doors...okay.
-Reading DMaps...okay.
-Reading Misc. Data...okay.
-Reading Misc. Colors...okay.
-Reading Game Icons...okay.
-Reading Items...okay.
-Reading Weapons...okay.
-Reading Maps...okay.
-Reading Combos...okay.
-Reading Combo Aliases...okay.
-Reading Color Data...okay.
-Reading Tiles...okay.
-Reading Tunes...okay.
-Reading Cheat Codes...okay.
-Reading Init. Data...okay.
-Reading Custom Guy Data...okay.
-Reading Custom Link Sprite Data...okay.
-Reading Custom Subscreen Data...okay.
-Reading FF Script Data...okay.
-Reading SFX Data...okay.
-Reading Item Drop Sets...okay.
-Reading Favorite Combos...okay.
-Done.
 Trying to load /home/nathalia/Felipe/Games/ZeldaClassic/zelda.nsf
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
 Removing timers. 
 Freeing Data: 
 Bitmaps... 
